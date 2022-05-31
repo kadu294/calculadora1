@@ -30,7 +30,6 @@ public class Principal {
                     JOptionPane.showMessageDialog(null, "Divisão: " + calculadora.getDivisao());
                     break;
             }
-
         }
     }
 }
