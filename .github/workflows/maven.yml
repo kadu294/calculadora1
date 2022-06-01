@@ -8,7 +8,6 @@
     branches: [ main ]
   pull_request:
     branches: [ main ]
-
  jobs:
 # Jobs do ambiente de desenvolvimentobuild-dev:
   runs-on: ubuntu-latest
